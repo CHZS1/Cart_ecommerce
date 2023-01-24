@@ -1,0 +1,32 @@
+{
+  "products": [
+    {
+      "image": "1.png",
+      "name": "Вытяжное устройство BXC",
+      "price": 6848,
+      "article": "T1",
+      "available": true
+    },
+    {
+      "image": "2.png",
+      "name": "Вытяжное устройство G2H",
+      "price": 6848,
+      "article": "T2",
+      "available": true
+    },
+    {
+      "image": "3.png",
+      "name": "Вытяжное устройство GHN",
+      "price": 6848,
+      "article": "T3",
+      "available": true
+    },
+    {
+      "image": "4.png",
+      "name": "Вытяжное устройство TDA",
+      "price": 6848,
+      "article": "T4",
+      "available": true
+    }
+  ]
+}
